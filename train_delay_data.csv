@@ -1,0 +1,501 @@
+station,scheduled_time,weather,day_of_week,is_holiday,is_delayed
+Huda City Centre,01-05-2024 14:00,Sunny,Wednesday,0,0
+Rajiv Chowk,01-05-2024 10:30,Sunny,Thursday,0,0
+Dwarka Sec-21,01-05-2024 15:45,Foggy,Saturday,0,1
+Noida City Centre,01-05-2024 17:00,Cloudy,Tuesday,0,0
+Dwarka Sec-21,01-05-2024 16:00,Foggy,Monday,1,1
+Dwarka Sec-21,01-05-2024 17:00,Foggy,Monday,0,1
+Rajiv Chowk,01-05-2024 13:15,Cloudy,Wednesday,0,0
+Kashmere Gate,01-05-2024 09:00,Cloudy,Friday,0,0
+Noida City Centre,01-05-2024 17:15,Rainy,Monday,0,1
+Kashmere Gate,01-05-2024 17:15,Sunny,Friday,0,0
+Central Secretariat,01-05-2024 11:15,Foggy,Wednesday,0,1
+Huda City Centre,01-05-2024 14:45,Cloudy,Thursday,0,0
+Kashmere Gate,01-05-2024 07:30,Foggy,Wednesday,0,1
+Kashmere Gate,01-05-2024 16:15,Sunny,Sunday,0,0
+Kashmere Gate,01-05-2024 06:00,Cloudy,Friday,0,0
+Central Secretariat,01-05-2024 17:00,Rainy,Friday,0,1
+Huda City Centre,01-05-2024 16:15,Cloudy,Saturday,0,0
+Kashmere Gate,01-05-2024 09:15,Rainy,Sunday,0,1
+Noida City Centre,01-05-2024 07:30,Cloudy,Friday,0,0
+Huda City Centre,01-05-2024 09:30,Foggy,Sunday,0,1
+Kashmere Gate,01-05-2024 20:15,Cloudy,Sunday,0,0
+Rajiv Chowk,01-05-2024 11:15,Sunny,Sunday,0,0
+Dwarka Sec-21,01-05-2024 06:45,Sunny,Sunday,0,0
+Dwarka Sec-21,01-05-2024 14:00,Sunny,Wednesday,0,0
+Central Secretariat,01-05-2024 07:45,Foggy,Monday,0,1
+Rajiv Chowk,01-05-2024 11:30,Cloudy,Thursday,0,0
+Kashmere Gate,01-05-2024 22:15,Sunny,Tuesday,0,0
+Huda City Centre,01-05-2024 10:00,Cloudy,Tuesday,1,0
+Rajiv Chowk,01-05-2024 06:00,Sunny,Monday,0,0
+Rajiv Chowk,01-05-2024 16:15,Rainy,Saturday,0,1
+Central Secretariat,01-05-2024 16:00,Rainy,Thursday,0,1
+Huda City Centre,01-05-2024 11:30,Cloudy,Saturday,0,0
+Central Secretariat,01-05-2024 22:00,Rainy,Thursday,0,1
+Central Secretariat,01-05-2024 17:15,Foggy,Saturday,0,1
+Kashmere Gate,01-05-2024 08:15,Foggy,Friday,0,1
+Central Secretariat,01-05-2024 19:00,Rainy,Friday,1,1
+Dwarka Sec-21,01-05-2024 06:45,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 07:00,Rainy,Tuesday,0,1
+Kashmere Gate,01-05-2024 06:00,Cloudy,Tuesday,1,0
+Noida City Centre,01-05-2024 22:45,Foggy,Saturday,0,1
+Central Secretariat,01-05-2024 14:45,Cloudy,Tuesday,1,0
+Noida City Centre,01-05-2024 08:45,Foggy,Sunday,0,1
+Central Secretariat,01-05-2024 12:30,Rainy,Sunday,1,1
+Dwarka Sec-21,01-05-2024 20:45,Cloudy,Thursday,0,0
+Huda City Centre,01-05-2024 21:30,Cloudy,Saturday,0,0
+Rajiv Chowk,01-05-2024 06:00,Sunny,Sunday,0,0
+Rajiv Chowk,01-05-2024 14:45,Cloudy,Tuesday,0,0
+Rajiv Chowk,01-05-2024 12:15,Sunny,Friday,1,0
+Rajiv Chowk,01-05-2024 16:00,Foggy,Monday,0,1
+Rajiv Chowk,01-05-2024 08:00,Rainy,Monday,0,1
+Dwarka Sec-21,01-05-2024 20:30,Cloudy,Tuesday,0,0
+Dwarka Sec-21,01-05-2024 12:30,Cloudy,Friday,0,0
+Rajiv Chowk,01-05-2024 15:15,Cloudy,Sunday,0,0
+Kashmere Gate,01-05-2024 08:00,Foggy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 18:00,Sunny,Thursday,0,0
+Kashmere Gate,01-05-2024 20:00,Foggy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 06:15,Cloudy,Monday,0,0
+Dwarka Sec-21,01-05-2024 13:15,Rainy,Tuesday,0,1
+Kashmere Gate,01-05-2024 15:15,Cloudy,Tuesday,0,0
+Huda City Centre,01-05-2024 20:30,Sunny,Tuesday,0,0
+Central Secretariat,01-05-2024 21:15,Cloudy,Sunday,0,0
+Kashmere Gate,01-05-2024 18:15,Foggy,Sunday,0,1
+Central Secretariat,01-05-2024 19:15,Sunny,Sunday,0,0
+Rajiv Chowk,01-05-2024 17:15,Foggy,Thursday,0,1
+Huda City Centre,01-05-2024 18:00,Sunny,Monday,0,0
+Huda City Centre,01-05-2024 20:30,Foggy,Monday,0,1
+Central Secretariat,01-05-2024 22:15,Sunny,Tuesday,0,0
+Dwarka Sec-21,01-05-2024 22:30,Cloudy,Tuesday,1,0
+Dwarka Sec-21,01-05-2024 11:45,Cloudy,Monday,0,0
+Dwarka Sec-21,01-05-2024 13:15,Foggy,Sunday,0,1
+Noida City Centre,01-05-2024 06:00,Cloudy,Wednesday,1,0
+Rajiv Chowk,01-05-2024 09:15,Sunny,Tuesday,0,1
+Kashmere Gate,01-05-2024 08:45,Foggy,Monday,1,1
+Rajiv Chowk,01-05-2024 12:00,Sunny,Saturday,0,0
+Huda City Centre,01-05-2024 17:30,Foggy,Friday,0,1
+Noida City Centre,01-05-2024 16:15,Foggy,Sunday,0,1
+Dwarka Sec-21,01-05-2024 10:00,Rainy,Saturday,0,1
+Dwarka Sec-21,01-05-2024 17:15,Cloudy,Wednesday,0,0
+Dwarka Sec-21,01-05-2024 21:30,Rainy,Wednesday,0,1
+Noida City Centre,01-05-2024 15:15,Cloudy,Monday,1,0
+Dwarka Sec-21,01-05-2024 08:45,Cloudy,Tuesday,1,0
+Rajiv Chowk,01-05-2024 20:15,Cloudy,Friday,0,0
+Kashmere Gate,01-05-2024 15:45,Foggy,Friday,0,1
+Rajiv Chowk,01-05-2024 06:15,Sunny,Sunday,0,0
+Huda City Centre,01-05-2024 18:30,Rainy,Friday,0,1
+Dwarka Sec-21,01-05-2024 22:30,Foggy,Monday,1,1
+Huda City Centre,01-05-2024 06:30,Foggy,Thursday,0,1
+Kashmere Gate,01-05-2024 08:15,Cloudy,Wednesday,0,0
+Dwarka Sec-21,01-05-2024 20:00,Cloudy,Monday,1,0
+Rajiv Chowk,01-05-2024 19:45,Foggy,Wednesday,0,1
+Central Secretariat,01-05-2024 16:45,Sunny,Tuesday,0,1
+Dwarka Sec-21,01-05-2024 11:00,Foggy,Thursday,0,1
+Huda City Centre,01-05-2024 11:00,Rainy,Tuesday,0,1
+Central Secretariat,01-05-2024 20:45,Rainy,Tuesday,0,1
+Noida City Centre,01-05-2024 12:00,Foggy,Friday,1,1
+Central Secretariat,01-05-2024 20:45,Sunny,Saturday,0,1
+Rajiv Chowk,01-05-2024 19:45,Rainy,Monday,0,1
+Central Secretariat,01-05-2024 14:45,Cloudy,Saturday,0,0
+Dwarka Sec-21,01-05-2024 06:45,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 22:45,Sunny,Saturday,0,0
+Huda City Centre,01-05-2024 18:45,Sunny,Wednesday,0,0
+Huda City Centre,01-05-2024 08:30,Cloudy,Tuesday,0,1
+Noida City Centre,01-05-2024 15:30,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 20:30,Cloudy,Tuesday,0,0
+Noida City Centre,01-05-2024 18:15,Cloudy,Saturday,0,1
+Rajiv Chowk,01-05-2024 21:30,Sunny,Monday,0,1
+Central Secretariat,01-05-2024 10:45,Rainy,Saturday,0,1
+Kashmere Gate,01-05-2024 06:45,Foggy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 07:30,Cloudy,Saturday,0,0
+Kashmere Gate,01-05-2024 12:45,Foggy,Saturday,0,1
+Rajiv Chowk,01-05-2024 11:00,Sunny,Saturday,0,1
+Dwarka Sec-21,01-05-2024 06:45,Foggy,Sunday,0,1
+Kashmere Gate,01-05-2024 15:15,Foggy,Sunday,1,1
+Noida City Centre,01-05-2024 22:15,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 18:30,Cloudy,Thursday,0,0
+Rajiv Chowk,01-05-2024 16:15,Rainy,Sunday,0,1
+Central Secretariat,01-05-2024 20:30,Sunny,Sunday,0,0
+Rajiv Chowk,01-05-2024 06:00,Rainy,Tuesday,0,1
+Kashmere Gate,01-05-2024 12:00,Cloudy,Wednesday,0,0
+Kashmere Gate,01-05-2024 07:00,Sunny,Wednesday,0,0
+Central Secretariat,01-05-2024 19:00,Rainy,Saturday,0,1
+Central Secretariat,01-05-2024 09:30,Cloudy,Sunday,0,0
+Kashmere Gate,01-05-2024 18:00,Sunny,Saturday,0,0
+Kashmere Gate,01-05-2024 17:45,Foggy,Thursday,0,1
+Dwarka Sec-21,01-05-2024 22:45,Foggy,Sunday,0,1
+Rajiv Chowk,01-05-2024 09:30,Sunny,Thursday,0,0
+Rajiv Chowk,01-05-2024 11:45,Sunny,Sunday,1,0
+Noida City Centre,01-05-2024 09:30,Rainy,Thursday,0,1
+Central Secretariat,01-05-2024 19:30,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 11:15,Sunny,Monday,0,0
+Central Secretariat,01-05-2024 15:45,Rainy,Wednesday,0,1
+Huda City Centre,01-05-2024 08:45,Cloudy,Thursday,0,0
+Rajiv Chowk,01-05-2024 07:15,Cloudy,Friday,0,0
+Huda City Centre,01-05-2024 20:00,Cloudy,Sunday,0,0
+Huda City Centre,01-05-2024 14:00,Foggy,Wednesday,0,1
+Noida City Centre,01-05-2024 11:45,Sunny,Wednesday,1,0
+Central Secretariat,01-05-2024 16:45,Sunny,Friday,0,0
+Noida City Centre,01-05-2024 16:15,Cloudy,Sunday,1,0
+Rajiv Chowk,01-05-2024 22:30,Rainy,Sunday,0,1
+Huda City Centre,01-05-2024 14:30,Rainy,Monday,1,1
+Kashmere Gate,01-05-2024 16:45,Foggy,Monday,0,1
+Huda City Centre,01-05-2024 21:15,Foggy,Wednesday,1,1
+Kashmere Gate,01-05-2024 07:45,Sunny,Saturday,1,0
+Huda City Centre,01-05-2024 22:15,Cloudy,Saturday,0,0
+Huda City Centre,01-05-2024 18:15,Rainy,Tuesday,0,1
+Central Secretariat,01-05-2024 15:00,Foggy,Monday,0,1
+Huda City Centre,01-05-2024 10:45,Sunny,Monday,0,0
+Rajiv Chowk,01-05-2024 16:45,Cloudy,Friday,0,0
+Central Secretariat,01-05-2024 20:45,Cloudy,Friday,0,0
+Dwarka Sec-21,01-05-2024 12:00,Foggy,Wednesday,0,1
+Noida City Centre,01-05-2024 16:45,Sunny,Thursday,0,0
+Central Secretariat,01-05-2024 13:15,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 08:00,Sunny,Wednesday,0,0
+Central Secretariat,01-05-2024 13:45,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 20:30,Sunny,Wednesday,1,0
+Dwarka Sec-21,01-05-2024 18:45,Cloudy,Sunday,1,0
+Central Secretariat,01-05-2024 21:00,Foggy,Thursday,0,1
+Rajiv Chowk,01-05-2024 08:30,Cloudy,Friday,0,0
+Rajiv Chowk,01-05-2024 21:00,Cloudy,Wednesday,0,0
+Rajiv Chowk,01-05-2024 14:30,Foggy,Friday,0,1
+Kashmere Gate,01-05-2024 22:30,Cloudy,Friday,0,0
+Noida City Centre,01-05-2024 19:45,Sunny,Thursday,0,0
+Kashmere Gate,01-05-2024 07:45,Sunny,Monday,0,0
+Noida City Centre,01-05-2024 22:45,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 22:15,Cloudy,Monday,0,0
+Noida City Centre,01-05-2024 07:30,Foggy,Wednesday,1,1
+Central Secretariat,01-05-2024 19:45,Cloudy,Monday,1,1
+Dwarka Sec-21,01-05-2024 21:45,Rainy,Thursday,0,1
+Dwarka Sec-21,01-05-2024 14:30,Foggy,Tuesday,0,1
+Huda City Centre,01-05-2024 13:00,Cloudy,Tuesday,0,0
+Rajiv Chowk,01-05-2024 06:45,Sunny,Friday,0,0
+Huda City Centre,01-05-2024 19:00,Foggy,Tuesday,0,1
+Dwarka Sec-21,01-05-2024 10:00,Sunny,Wednesday,1,0
+Huda City Centre,01-05-2024 16:00,Rainy,Wednesday,0,1
+Huda City Centre,01-05-2024 12:15,Sunny,Friday,1,0
+Rajiv Chowk,01-05-2024 13:45,Rainy,Sunday,1,1
+Dwarka Sec-21,01-05-2024 16:30,Sunny,Thursday,0,1
+Central Secretariat,01-05-2024 20:30,Cloudy,Monday,1,0
+Dwarka Sec-21,01-05-2024 20:15,Cloudy,Sunday,0,0
+Kashmere Gate,01-05-2024 21:15,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 12:15,Cloudy,Saturday,0,0
+Noida City Centre,01-05-2024 11:30,Rainy,Wednesday,0,1
+Noida City Centre,01-05-2024 12:30,Foggy,Friday,0,1
+Kashmere Gate,01-05-2024 18:15,Foggy,Thursday,0,1
+Central Secretariat,01-05-2024 13:45,Cloudy,Thursday,0,0
+Rajiv Chowk,01-05-2024 21:30,Cloudy,Friday,0,0
+Noida City Centre,01-05-2024 17:45,Rainy,Saturday,0,1
+Huda City Centre,01-05-2024 12:30,Cloudy,Wednesday,0,0
+Rajiv Chowk,01-05-2024 22:00,Rainy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 19:30,Cloudy,Monday,0,0
+Central Secretariat,01-05-2024 09:15,Foggy,Wednesday,1,1
+Huda City Centre,01-05-2024 14:00,Foggy,Monday,0,1
+Kashmere Gate,01-05-2024 14:15,Cloudy,Friday,0,1
+Central Secretariat,01-05-2024 21:45,Sunny,Monday,0,0
+Rajiv Chowk,01-05-2024 19:00,Foggy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 07:45,Sunny,Sunday,0,0
+Rajiv Chowk,01-05-2024 14:00,Rainy,Tuesday,0,1
+Central Secretariat,01-05-2024 20:15,Foggy,Wednesday,0,1
+Noida City Centre,01-05-2024 19:30,Rainy,Friday,0,1
+Rajiv Chowk,01-05-2024 12:45,Foggy,Wednesday,0,1
+Kashmere Gate,01-05-2024 09:15,Rainy,Friday,0,1
+Noida City Centre,01-05-2024 08:45,Foggy,Thursday,0,1
+Central Secretariat,01-05-2024 13:45,Cloudy,Monday,0,0
+Noida City Centre,01-05-2024 20:00,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 13:15,Foggy,Friday,0,1
+Rajiv Chowk,01-05-2024 18:15,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 11:00,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 08:15,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 12:45,Cloudy,Monday,0,0
+Noida City Centre,01-05-2024 17:00,Foggy,Friday,1,1
+Dwarka Sec-21,01-05-2024 22:00,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 06:15,Rainy,Monday,0,1
+Noida City Centre,01-05-2024 08:45,Foggy,Saturday,0,1
+Rajiv Chowk,01-05-2024 07:45,Foggy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 21:00,Foggy,Monday,0,1
+Huda City Centre,01-05-2024 08:30,Cloudy,Monday,0,0
+Kashmere Gate,01-05-2024 22:15,Foggy,Monday,0,1
+Kashmere Gate,01-05-2024 12:15,Foggy,Monday,0,1
+Dwarka Sec-21,01-05-2024 22:00,Rainy,Saturday,0,1
+Central Secretariat,01-05-2024 22:30,Sunny,Tuesday,0,0
+Huda City Centre,01-05-2024 22:15,Foggy,Thursday,1,1
+Noida City Centre,01-05-2024 13:45,Sunny,Saturday,0,0
+Huda City Centre,01-05-2024 18:30,Foggy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 14:15,Rainy,Sunday,0,1
+Huda City Centre,01-05-2024 08:15,Sunny,Tuesday,0,0
+Central Secretariat,01-05-2024 18:15,Foggy,Monday,0,1
+Dwarka Sec-21,01-05-2024 14:30,Foggy,Tuesday,0,1
+Kashmere Gate,01-05-2024 12:45,Sunny,Monday,0,0
+Central Secretariat,01-05-2024 15:30,Cloudy,Monday,0,0
+Central Secretariat,01-05-2024 07:30,Cloudy,Thursday,0,0
+Huda City Centre,01-05-2024 17:15,Rainy,Tuesday,1,1
+Rajiv Chowk,01-05-2024 16:45,Cloudy,Monday,0,0
+Dwarka Sec-21,01-05-2024 12:45,Cloudy,Thursday,0,0
+Rajiv Chowk,01-05-2024 16:45,Cloudy,Sunday,0,0
+Kashmere Gate,01-05-2024 08:45,Foggy,Monday,0,1
+Central Secretariat,01-05-2024 11:30,Foggy,Sunday,0,1
+Huda City Centre,01-05-2024 08:30,Rainy,Tuesday,0,1
+Central Secretariat,01-05-2024 09:45,Foggy,Thursday,0,1
+Rajiv Chowk,01-05-2024 18:30,Rainy,Thursday,0,1
+Noida City Centre,01-05-2024 17:15,Cloudy,Thursday,0,0
+Dwarka Sec-21,01-05-2024 12:00,Rainy,Sunday,0,1
+Kashmere Gate,01-05-2024 09:15,Sunny,Tuesday,0,0
+Huda City Centre,01-05-2024 16:45,Foggy,Saturday,1,1
+Kashmere Gate,01-05-2024 09:15,Cloudy,Friday,0,0
+Noida City Centre,01-05-2024 08:45,Cloudy,Friday,0,0
+Dwarka Sec-21,01-05-2024 12:00,Cloudy,Tuesday,0,0
+Noida City Centre,01-05-2024 11:45,Cloudy,Thursday,1,0
+Dwarka Sec-21,01-05-2024 07:15,Sunny,Wednesday,0,0
+Kashmere Gate,01-05-2024 10:15,Cloudy,Saturday,0,0
+Noida City Centre,01-05-2024 11:00,Foggy,Thursday,0,1
+Huda City Centre,01-05-2024 22:00,Rainy,Thursday,0,1
+Rajiv Chowk,01-05-2024 20:30,Foggy,Thursday,0,1
+Noida City Centre,01-05-2024 11:30,Foggy,Friday,0,1
+Kashmere Gate,01-05-2024 21:15,Foggy,Monday,0,1
+Dwarka Sec-21,01-05-2024 11:30,Cloudy,Saturday,0,0
+Rajiv Chowk,01-05-2024 11:00,Sunny,Saturday,0,0
+Kashmere Gate,01-05-2024 21:45,Rainy,Wednesday,0,1
+Huda City Centre,01-05-2024 21:00,Foggy,Saturday,0,1
+Kashmere Gate,01-05-2024 09:15,Cloudy,Thursday,0,0
+Huda City Centre,01-05-2024 13:45,Sunny,Tuesday,0,1
+Rajiv Chowk,01-05-2024 21:30,Cloudy,Sunday,0,0
+Noida City Centre,01-05-2024 07:15,Foggy,Saturday,1,1
+Rajiv Chowk,01-05-2024 14:45,Foggy,Sunday,0,1
+Noida City Centre,01-05-2024 12:15,Cloudy,Thursday,0,0
+Huda City Centre,01-05-2024 11:15,Rainy,Wednesday,0,1
+Central Secretariat,01-05-2024 22:00,Sunny,Friday,0,0
+Noida City Centre,01-05-2024 10:00,Cloudy,Friday,0,0
+Huda City Centre,01-05-2024 21:00,Foggy,Tuesday,0,1
+Huda City Centre,01-05-2024 15:30,Rainy,Monday,0,1
+Noida City Centre,01-05-2024 16:15,Foggy,Sunday,0,1
+Noida City Centre,01-05-2024 15:30,Rainy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 07:30,Sunny,Wednesday,0,0
+Rajiv Chowk,01-05-2024 09:45,Sunny,Friday,0,0
+Central Secretariat,01-05-2024 18:45,Cloudy,Thursday,0,0
+Central Secretariat,01-05-2024 18:45,Rainy,Monday,0,1
+Dwarka Sec-21,01-05-2024 11:30,Foggy,Wednesday,1,1
+Kashmere Gate,01-05-2024 16:00,Foggy,Saturday,0,1
+Central Secretariat,01-05-2024 11:15,Rainy,Sunday,0,1
+Dwarka Sec-21,01-05-2024 19:00,Foggy,Sunday,0,1
+Kashmere Gate,01-05-2024 22:45,Sunny,Wednesday,0,0
+Huda City Centre,01-05-2024 21:00,Cloudy,Wednesday,0,0
+Huda City Centre,01-05-2024 07:30,Sunny,Saturday,0,1
+Dwarka Sec-21,01-05-2024 11:45,Cloudy,Friday,0,0
+Dwarka Sec-21,01-05-2024 11:15,Foggy,Sunday,0,1
+Rajiv Chowk,01-05-2024 13:30,Sunny,Monday,0,0
+Central Secretariat,01-05-2024 11:15,Rainy,Monday,1,0
+Noida City Centre,01-05-2024 13:45,Sunny,Tuesday,0,0
+Huda City Centre,01-05-2024 20:15,Cloudy,Monday,0,0
+Huda City Centre,01-05-2024 17:00,Rainy,Friday,0,1
+Huda City Centre,01-05-2024 20:00,Rainy,Saturday,1,0
+Huda City Centre,01-05-2024 11:45,Sunny,Saturday,0,0
+Kashmere Gate,01-05-2024 07:00,Cloudy,Thursday,0,0
+Huda City Centre,01-05-2024 18:45,Cloudy,Sunday,1,1
+Central Secretariat,01-05-2024 22:45,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 14:15,Foggy,Wednesday,1,1
+Noida City Centre,01-05-2024 15:45,Cloudy,Monday,0,0
+Huda City Centre,01-05-2024 13:00,Rainy,Friday,0,1
+Noida City Centre,01-05-2024 12:00,Foggy,Monday,0,1
+Huda City Centre,01-05-2024 13:30,Foggy,Monday,0,1
+Huda City Centre,01-05-2024 21:30,Rainy,Thursday,1,1
+Central Secretariat,01-05-2024 17:30,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 19:15,Rainy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 21:15,Sunny,Friday,0,0
+Rajiv Chowk,01-05-2024 07:45,Foggy,Tuesday,0,1
+Central Secretariat,01-05-2024 08:15,Sunny,Saturday,0,0
+Central Secretariat,01-05-2024 16:00,Foggy,Saturday,0,1
+Huda City Centre,01-05-2024 08:00,Cloudy,Wednesday,0,0
+Noida City Centre,01-05-2024 21:30,Cloudy,Thursday,1,0
+Kashmere Gate,01-05-2024 22:15,Rainy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 22:15,Rainy,Friday,1,1
+Dwarka Sec-21,01-05-2024 20:15,Rainy,Tuesday,0,1
+Huda City Centre,01-05-2024 14:15,Rainy,Tuesday,0,1
+Rajiv Chowk,01-05-2024 06:00,Foggy,Tuesday,0,1
+Central Secretariat,01-05-2024 16:00,Cloudy,Tuesday,0,0
+Noida City Centre,01-05-2024 22:15,Cloudy,Thursday,0,0
+Noida City Centre,01-05-2024 10:00,Cloudy,Thursday,0,1
+Rajiv Chowk,01-05-2024 20:30,Cloudy,Tuesday,1,0
+Dwarka Sec-21,01-05-2024 14:00,Rainy,Monday,0,1
+Noida City Centre,01-05-2024 16:45,Cloudy,Thursday,0,0
+Central Secretariat,01-05-2024 06:00,Rainy,Sunday,0,1
+Noida City Centre,01-05-2024 13:45,Rainy,Sunday,0,1
+Kashmere Gate,01-05-2024 08:30,Cloudy,Wednesday,1,0
+Noida City Centre,01-05-2024 21:30,Sunny,Wednesday,0,0
+Kashmere Gate,01-05-2024 16:00,Rainy,Thursday,0,1
+Kashmere Gate,01-05-2024 07:00,Sunny,Thursday,0,0
+Central Secretariat,01-05-2024 11:00,Sunny,Thursday,0,0
+Rajiv Chowk,01-05-2024 13:45,Sunny,Saturday,0,0
+Kashmere Gate,01-05-2024 11:15,Foggy,Monday,0,1
+Noida City Centre,01-05-2024 16:30,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 13:30,Foggy,Thursday,0,1
+Dwarka Sec-21,01-05-2024 18:45,Rainy,Thursday,0,1
+Noida City Centre,01-05-2024 16:15,Cloudy,Sunday,0,0
+Rajiv Chowk,01-05-2024 16:00,Rainy,Thursday,0,1
+Dwarka Sec-21,01-05-2024 16:45,Rainy,Tuesday,0,1
+Huda City Centre,01-05-2024 18:45,Rainy,Sunday,0,1
+Central Secretariat,01-05-2024 06:15,Sunny,Thursday,0,0
+Kashmere Gate,01-05-2024 15:00,Sunny,Wednesday,0,0
+Kashmere Gate,01-05-2024 11:15,Sunny,Wednesday,0,0
+Dwarka Sec-21,01-05-2024 09:30,Rainy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 16:15,Sunny,Saturday,0,0
+Central Secretariat,01-05-2024 20:15,Cloudy,Saturday,0,0
+Dwarka Sec-21,01-05-2024 10:15,Cloudy,Monday,0,0
+Central Secretariat,01-05-2024 10:00,Cloudy,Tuesday,0,0
+Noida City Centre,01-05-2024 12:15,Cloudy,Monday,1,0
+Dwarka Sec-21,01-05-2024 07:00,Cloudy,Thursday,1,0
+Central Secretariat,01-05-2024 07:00,Cloudy,Friday,1,0
+Kashmere Gate,01-05-2024 13:30,Foggy,Wednesday,0,1
+Huda City Centre,01-05-2024 11:00,Sunny,Wednesday,0,1
+Dwarka Sec-21,01-05-2024 17:45,Foggy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 16:45,Foggy,Wednesday,0,1
+Kashmere Gate,01-05-2024 13:00,Cloudy,Sunday,0,0
+Noida City Centre,01-05-2024 21:30,Foggy,Saturday,1,1
+Dwarka Sec-21,01-05-2024 06:45,Foggy,Monday,0,1
+Central Secretariat,01-05-2024 15:45,Foggy,Saturday,0,1
+Kashmere Gate,01-05-2024 07:15,Cloudy,Tuesday,0,0
+Dwarka Sec-21,01-05-2024 19:30,Cloudy,Friday,0,0
+Noida City Centre,01-05-2024 20:45,Rainy,Monday,0,1
+Noida City Centre,01-05-2024 06:45,Rainy,Friday,0,1
+Kashmere Gate,01-05-2024 17:00,Sunny,Sunday,0,1
+Kashmere Gate,01-05-2024 12:00,Sunny,Friday,1,0
+Rajiv Chowk,01-05-2024 06:30,Sunny,Monday,0,0
+Rajiv Chowk,01-05-2024 16:45,Cloudy,Monday,0,0
+Huda City Centre,01-05-2024 16:45,Rainy,Thursday,1,1
+Dwarka Sec-21,01-05-2024 14:30,Foggy,Thursday,0,1
+Rajiv Chowk,01-05-2024 09:30,Cloudy,Friday,1,0
+Central Secretariat,01-05-2024 08:30,Foggy,Wednesday,0,1
+Noida City Centre,01-05-2024 14:45,Sunny,Saturday,0,0
+Kashmere Gate,01-05-2024 13:30,Foggy,Sunday,0,1
+Rajiv Chowk,01-05-2024 21:15,Rainy,Monday,0,1
+Kashmere Gate,01-05-2024 09:45,Sunny,Sunday,0,0
+Noida City Centre,01-05-2024 13:15,Rainy,Sunday,1,1
+Huda City Centre,01-05-2024 15:45,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 14:00,Cloudy,Friday,1,0
+Rajiv Chowk,01-05-2024 09:00,Rainy,Thursday,0,1
+Rajiv Chowk,01-05-2024 06:45,Foggy,Saturday,0,1
+Rajiv Chowk,01-05-2024 19:30,Sunny,Sunday,0,0
+Rajiv Chowk,01-05-2024 10:45,Cloudy,Saturday,1,0
+Rajiv Chowk,01-05-2024 06:30,Rainy,Friday,0,1
+Kashmere Gate,01-05-2024 19:00,Foggy,Monday,0,1
+Rajiv Chowk,01-05-2024 11:45,Sunny,Monday,0,0
+Dwarka Sec-21,01-05-2024 09:45,Sunny,Saturday,0,0
+Central Secretariat,01-05-2024 13:30,Foggy,Thursday,0,1
+Rajiv Chowk,01-05-2024 19:15,Rainy,Friday,1,1
+Rajiv Chowk,01-05-2024 21:15,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 17:30,Foggy,Saturday,0,1
+Noida City Centre,01-05-2024 17:45,Sunny,Sunday,0,0
+Huda City Centre,01-05-2024 14:30,Foggy,Sunday,0,1
+Kashmere Gate,01-05-2024 11:00,Rainy,Sunday,0,1
+Rajiv Chowk,01-05-2024 13:45,Rainy,Monday,0,1
+Noida City Centre,01-05-2024 16:00,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 10:45,Sunny,Wednesday,1,0
+Dwarka Sec-21,01-05-2024 21:15,Foggy,Sunday,1,1
+Dwarka Sec-21,01-05-2024 19:45,Foggy,Monday,0,1
+Noida City Centre,01-05-2024 14:00,Rainy,Tuesday,0,1
+Dwarka Sec-21,01-05-2024 17:30,Rainy,Sunday,1,1
+Dwarka Sec-21,01-05-2024 11:00,Sunny,Friday,0,0
+Central Secretariat,01-05-2024 21:00,Rainy,Saturday,0,1
+Kashmere Gate,01-05-2024 19:00,Cloudy,Sunday,0,0
+Rajiv Chowk,01-05-2024 20:45,Foggy,Saturday,1,1
+Kashmere Gate,01-05-2024 07:45,Sunny,Monday,0,0
+Huda City Centre,01-05-2024 09:45,Foggy,Wednesday,0,1
+Kashmere Gate,01-05-2024 09:45,Sunny,Sunday,0,1
+Noida City Centre,01-05-2024 21:30,Foggy,Wednesday,0,1
+Noida City Centre,01-05-2024 15:30,Foggy,Saturday,0,1
+Central Secretariat,01-05-2024 09:15,Sunny,Tuesday,0,0
+Rajiv Chowk,01-05-2024 16:30,Foggy,Saturday,0,1
+Huda City Centre,01-05-2024 14:45,Sunny,Thursday,1,0
+Huda City Centre,01-05-2024 07:00,Sunny,Monday,0,0
+Kashmere Gate,01-05-2024 06:30,Cloudy,Friday,0,0
+Kashmere Gate,01-05-2024 20:30,Cloudy,Sunday,0,0
+Dwarka Sec-21,01-05-2024 12:00,Cloudy,Friday,0,0
+Rajiv Chowk,01-05-2024 06:15,Foggy,Friday,1,1
+Kashmere Gate,01-05-2024 11:00,Rainy,Saturday,0,1
+Huda City Centre,01-05-2024 18:00,Rainy,Friday,0,1
+Noida City Centre,01-05-2024 15:45,Foggy,Friday,0,1
+Noida City Centre,01-05-2024 08:30,Sunny,Monday,0,0
+Rajiv Chowk,01-05-2024 07:30,Cloudy,Sunday,0,0
+Huda City Centre,01-05-2024 09:45,Cloudy,Saturday,1,0
+Dwarka Sec-21,01-05-2024 08:15,Foggy,Tuesday,1,1
+Noida City Centre,01-05-2024 12:00,Cloudy,Tuesday,0,0
+Central Secretariat,01-05-2024 21:45,Sunny,Tuesday,1,0
+Noida City Centre,01-05-2024 11:00,Foggy,Friday,1,1
+Noida City Centre,01-05-2024 14:15,Foggy,Friday,0,1
+Noida City Centre,01-05-2024 20:30,Sunny,Thursday,0,1
+Rajiv Chowk,01-05-2024 16:15,Rainy,Thursday,1,1
+Dwarka Sec-21,01-05-2024 10:15,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 08:30,Sunny,Friday,0,0
+Dwarka Sec-21,01-05-2024 07:30,Foggy,Friday,0,1
+Huda City Centre,01-05-2024 20:00,Rainy,Saturday,0,1
+Huda City Centre,01-05-2024 09:30,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 10:45,Foggy,Sunday,0,1
+Central Secretariat,01-05-2024 17:45,Foggy,Friday,0,1
+Noida City Centre,01-05-2024 14:45,Rainy,Tuesday,0,1
+Huda City Centre,01-05-2024 18:15,Cloudy,Tuesday,0,0
+Dwarka Sec-21,01-05-2024 06:45,Foggy,Monday,1,1
+Rajiv Chowk,01-05-2024 20:30,Sunny,Friday,0,0
+Kashmere Gate,01-05-2024 16:30,Rainy,Tuesday,0,1
+Kashmere Gate,01-05-2024 12:00,Rainy,Sunday,0,0
+Noida City Centre,01-05-2024 15:45,Rainy,Thursday,0,1
+Noida City Centre,01-05-2024 11:00,Foggy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 11:15,Sunny,Tuesday,0,1
+Huda City Centre,01-05-2024 06:30,Sunny,Saturday,0,0
+Huda City Centre,01-05-2024 14:00,Sunny,Monday,1,0
+Dwarka Sec-21,01-05-2024 12:00,Rainy,Monday,1,1
+Central Secretariat,01-05-2024 21:15,Cloudy,Wednesday,0,0
+Central Secretariat,01-05-2024 14:15,Foggy,Wednesday,0,1
+Dwarka Sec-21,01-05-2024 14:00,Cloudy,Thursday,0,1
+Rajiv Chowk,01-05-2024 18:30,Sunny,Thursday,0,0
+Huda City Centre,01-05-2024 08:00,Sunny,Monday,0,0
+Kashmere Gate,01-05-2024 10:30,Rainy,Monday,1,0
+Huda City Centre,01-05-2024 13:15,Cloudy,Friday,0,0
+Dwarka Sec-21,01-05-2024 21:30,Sunny,Sunday,0,0
+Central Secretariat,01-05-2024 18:00,Sunny,Wednesday,0,1
+Central Secretariat,01-05-2024 19:45,Rainy,Tuesday,0,1
+Huda City Centre,01-05-2024 13:45,Rainy,Saturday,1,1
+Central Secretariat,01-05-2024 20:00,Foggy,Friday,0,1
+Kashmere Gate,01-05-2024 08:45,Cloudy,Thursday,0,0
+Noida City Centre,01-05-2024 10:30,Foggy,Saturday,0,1
+Huda City Centre,01-05-2024 17:00,Sunny,Sunday,0,0
+Noida City Centre,01-05-2024 11:00,Foggy,Thursday,0,1
+Huda City Centre,01-05-2024 14:30,Cloudy,Saturday,1,0
+Dwarka Sec-21,01-05-2024 21:45,Foggy,Friday,0,1
+Central Secretariat,01-05-2024 12:45,Rainy,Friday,0,1
+Huda City Centre,01-05-2024 21:15,Cloudy,Wednesday,0,1
+Kashmere Gate,01-05-2024 12:45,Cloudy,Friday,0,0
+Dwarka Sec-21,01-05-2024 21:30,Sunny,Saturday,0,0
+Central Secretariat,01-05-2024 18:15,Sunny,Tuesday,0,0
+Central Secretariat,01-05-2024 15:45,Rainy,Monday,0,1
+Dwarka Sec-21,01-05-2024 22:45,Rainy,Wednesday,0,1
+Rajiv Chowk,01-05-2024 07:15,Rainy,Friday,0,1
+Central Secretariat,01-05-2024 08:15,Sunny,Friday,0,0
+Rajiv Chowk,01-05-2024 07:00,Foggy,Sunday,1,1
+Huda City Centre,01-05-2024 16:00,Sunny,Saturday,0,0
+Central Secretariat,01-05-2024 13:30,Rainy,Monday,0,1
+Huda City Centre,01-05-2024 16:45,Rainy,Thursday,0,1
+Dwarka Sec-21,01-05-2024 21:00,Rainy,Thursday,0,0
+Huda City Centre,01-05-2024 21:15,Foggy,Tuesday,0,1
+Noida City Centre,01-05-2024 17:45,Sunny,Thursday,0,1
+Huda City Centre,01-05-2024 15:45,Foggy,Wednesday,0,1
+Central Secretariat,01-05-2024 19:30,Cloudy,Sunday,0,0
+Huda City Centre,01-05-2024 12:30,Cloudy,Tuesday,0,0
+Central Secretariat,01-05-2024 06:00,Cloudy,Thursday,1,0
+Noida City Centre,01-05-2024 14:15,Sunny,Tuesday,0,0
+Huda City Centre,01-05-2024 13:00,Sunny,Wednesday,0,0
+Noida City Centre,01-05-2024 17:00,Foggy,Friday,0,1
+Kashmere Gate,01-05-2024 07:15,Cloudy,Saturday,0,0
+Noida City Centre,01-05-2024 20:30,Foggy,Saturday,0,1
+Central Secretariat,01-05-2024 19:30,Foggy,Friday,0,1
+Rajiv Chowk,01-05-2024 19:45,Sunny,Thursday,0,0
+Central Secretariat,01-05-2024 18:15,Foggy,Sunday,0,1
+Rajiv Chowk,01-05-2024 16:30,Foggy,Wednesday,0,1
+Central Secretariat,01-05-2024 13:15,Cloudy,Tuesday,0,0
+Rajiv Chowk,01-05-2024 11:45,Cloudy,Wednesday,0,0
+Central Secretariat,01-05-2024 08:00,Foggy,Thursday,0,1
+Noida City Centre,01-05-2024 15:30,Rainy,Sunday,1,1
+Central Secretariat,01-05-2024 19:00,Foggy,Saturday,0,1
+Dwarka Sec-21,01-05-2024 19:30,Foggy,Monday,0,1
+Kashmere Gate,01-05-2024 09:30,Foggy,Friday,0,1
+Dwarka Sec-21,01-05-2024 10:45,Foggy,Tuesday,1,1
+Huda City Centre,01-05-2024 11:00,Sunny,Tuesday,0,0
